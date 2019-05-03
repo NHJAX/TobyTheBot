@@ -1,6 +1,7 @@
 // app.js
 var Twitter = require('twitter');
 var path = require('path');
+var fs = require('fs');
 
 // var config = require('./config.json');
 // var T = new Twitter(config);
