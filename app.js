@@ -1,7 +1,7 @@
 // app.js
 var Twitter = require('twitter');
 // var config = require('./config.json');
-var T = new Twitter(config);
+// var T = new Twitter(config);
 
 // Set up your search parameters
 var params = {
