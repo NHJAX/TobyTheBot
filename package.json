@@ -16,6 +16,7 @@
     "url": "https://github.com/NHJAX/TobyTheBot/issues"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
     "path": "^0.12.7",
     "twitter": "^1.7.1"
   },
